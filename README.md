@@ -15,7 +15,7 @@ Software Consultancy focused on React, Node, GraphQL
 * Mentoring junior developers on personal-development.
 * **Key technologies:** React, GQL, Node, Serverless, Cypress, Docker, CircleCI
 * **OSS:** Maintained and developed 4 OSS projects 
-  * [RunPkg](https://www.runpkg.com/)
+  * [RunPKG](https://www.runpkg.com/)
   * [Spectacle](https://github.com/FormidableLabs/spectacle)
   * [React Live](https://github.com/FormidableLabs/react-live)
   * Documentation for a number of Formidable OSS projects **Example:** https://formidable.com/open-source/spectacle/.
