@@ -31,10 +31,12 @@ Design and print company.
 * [CI/CD in a build-free world](https://formidable.com/blog/2019/build-free-world/)
 * [RunPKG V1](https://formidable.com/blog/2019/runpkg-v-1/)
 
-## 🥳 Side Projects
+## 🌍 On The Side
 
 * **[Game disc beauty](https://codepen.io/collection/AZvEzJ)** a project to better understand using SVG elements and hand-coding SVG paths.
+
 * **[Codebar](https://codebar.io/)** Ex-organiser, changed focus to mentoring.
+* **[QueerCode](https://queer-code.org/)** Ex-organiser.
 
 ## 👩🏻‍🎓 Education
 
