@@ -9,7 +9,7 @@ Software Developer based in London, UK.
 **Software Engineer** @ [Formidable Labs](https://formidable.com/) *(Dec 2018 -> Present)*
 Software Consultancy focused on React, Node, GraphQL
 
-* Worked on 3 different client projects covering E-commerce, HR administration, and data analytics/ visualisation.
+* Consulted and built various client projects covering E-commerce, HR administration, and data analytics/ visualisation.
 * Particular technical focus on CI/CD processes, Frontend UI/UX, and GraphQL.
 * Worked on client focussed skills throughout. 
 * **Key technologies:** React, GQL, Node, Cypress, Docker, CircleCI
