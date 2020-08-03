@@ -2,7 +2,7 @@
 
 Software Developer based in London, UK.
 
-[Email](mailto:karaestubbs@gmail.com)/ [Github](https://github.com/kiraarghy)/ [Twitter](https://twitter.com/KiraArghy)/ [Ccodepen](https://codepen.io/kiraarghy)
+[Email](mailto:karaestubbs@gmail.com)/ [Github](https://github.com/kiraarghy)/ [Twitter](https://twitter.com/KiraArghy)/ [Codepen](https://codepen.io/kiraarghy)
 
 ## 👩🏻‍💻 Technical Experience
 
