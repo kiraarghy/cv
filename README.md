@@ -12,8 +12,8 @@ Software Consultancy focused on React, Node, GraphQL
 * Consulted and built various client projects covering E-commerce, HR administration, and data analytics/ visualisation.
 * Particular technical focus on CI/CD processes, Frontend UI/UX, and GraphQL.
 * Worked on client focussed skills throughout.
-* Working in distrubuted teams and clients in the US.
-* Mentoring junior developers on personal-development.
+* Worked in distrubuted teams and clients in the US.
+* Mentored junior developers on personal-development.
 * **Key technologies:** React, GQL, Node, Serverless, Cypress, Docker, CircleCI
 * **OSS:** Maintained and developed 4 OSS projects 
   * [RunPKG](https://www.runpkg.com/)
