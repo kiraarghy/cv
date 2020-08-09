@@ -41,6 +41,6 @@ Design and print company.
 
 ## 👩🏻‍🎓 Education
 
-* Self-taught web developer 2017 -> 2018.
+* Self-taught web developer 2017 -> Present.
 * LLM Biotechnology Law and Ethics 2015.
 * BSc Biochemistry 2014.
